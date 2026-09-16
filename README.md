@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Data Analytics Projects</b>
-  - [Predicting Customer Satisfaction in E-Commerce](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Predicting Customer Satisfaction in E-Commerce](https://github.com/jcastro712/CustomerSatisfaction)
   - [Loan Default Prediction Using Machine Learning](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Crime and Mental Health in Canada](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>SQL</b>
