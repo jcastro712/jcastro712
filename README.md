@@ -4,7 +4,7 @@
 
 - <b>Data Analytics Projects</b>
   - [Predicting Customer Satisfaction in E-Commerce](https://github.com/jcastro712/CustomerSatisfaction)
-  - [Loan Default Prediction Using Machine Learning](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Loan Default Prediction Using Machine Learning](https://github.com/jcastro712/LoanPrediction)
   - [Crime and Mental Health in Canada](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>SQL</b>
   - [Danny Ma's 8 Week SQL Challenge](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
