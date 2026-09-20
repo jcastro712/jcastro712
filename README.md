@@ -14,4 +14,4 @@
 [<img align="left" alt="JoseCastro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/josecastro_712/
-[linkedin]: https://www.linkedin.com/in/jose-maria-castro-8870432b9/
+[linkedin]: https://www.linkedin.com/in/josema-castro712/
