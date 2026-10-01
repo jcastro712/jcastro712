@@ -5,8 +5,6 @@
 - <b>Data Analytics Projects</b>
   - [Predicting Customer Satisfaction in E-Commerce](https://github.com/jcastro712/CustomerSatisfaction)
   - [Loan Default Prediction Using Machine Learning](https://github.com/jcastro712/LoanPrediction)
-- <b>SQL</b>
-  - [Danny Ma's 8 Week SQL Challenge](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> 🤳 Connect with me:</h2>
 
